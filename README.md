@@ -91,4 +91,4 @@ This tool gives an automated summary of retrieved regulatory text. It is **not l
 
 ## Author
 
-**V Anu**: AI/ML instructor and B.Tech (CS & Data Science) student
+**V Anu**: AI/ML instructor and MS (AI) student
